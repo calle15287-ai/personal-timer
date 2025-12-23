@@ -5,3 +5,4 @@ __pycache__/
 *.log
 __init__.py  # Add this if you want to ignore it
 .idea/
+~/saved
